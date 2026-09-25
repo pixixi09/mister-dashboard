@@ -29525,7 +29525,7 @@
     "valor": 704000,
     "puntos_totales": 18,
     "media": 3.6,
-    "clausula": 1056000,
+    "clausula": 1233750,
     "id_team": 23,
     "status": null,
     "streak": [
@@ -29540,7 +29540,7 @@
     "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/70150.png?version=20260407094702",
     "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/23.png?version=",
     "valor_anterior": 664000,
-    "clause_floor": 704000,
+    "clause_floor": 822500,
     "clause_multiplier": 1.5,
     "clause_percentage": 50,
     "clause_tier": 1,
@@ -29549,8 +29549,8 @@
     "tarjetas": 0,
     "lesionado": false,
     "lesion": null,
-    "owner_id": 14606051,
-    "owner_name": "Ridaura",
+    "owner_id": 14605899,
+    "owner_name": "Pixixi",
     "last_gameweek": 7,
     "puntos_ultimos_3": 13.0,
     "media_ultimos_3": 4.33,
@@ -29576,7 +29576,7 @@
     "fecha_valor_minimo": "7 abr 2026",
     "distancia_max_pct": 0.0,
     "rentabilidad_valor": 25.57,
-    "rentabilidad_clausula": 17.05
+    "rentabilidad_clausula": 14.59
   },
   {
     "id": 22885,
