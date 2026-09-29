@@ -287,7 +287,7 @@
     "media": 0,
     "clausula": null,
     "id_team": 1,
-    "status": "injury",
+    "status": "doubt",
     "streak": [
       "-",
       "-",
@@ -309,9 +309,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "injury",
+      "category": "doubt",
       "description": "Lesión en el aductor",
-      "duration": "Baja hasta Octubre"
+      "duration": "Duda esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -3636,7 +3636,7 @@
     "media": 5.2,
     "clausula": null,
     "id_team": 3,
-    "status": "injury",
+    "status": "doubt",
     "streak": [
       3,
       9,
@@ -3658,9 +3658,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "injury",
+      "category": "doubt",
       "description": "Molestias",
-      "duration": "Baja hasta principios de Octubre"
+      "duration": "Duda esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -3846,7 +3846,7 @@
     "media": 3.5,
     "clausula": 4575003,
     "id_team": 3,
-    "status": "doubt",
+    "status": "injury",
     "streak": [
       2,
       4,
@@ -3868,9 +3868,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "doubt",
-      "description": "Lesión en el cuádriceps",
-      "duration": "Duda esta jornada"
+      "category": "injury",
+      "description": "Rotura en el recto anterior",
+      "duration": "Baja hasta Noviembre"
     },
     "owner_id": 14605926,
     "owner_name": "Alberto Ribera",
@@ -5343,7 +5343,7 @@
     "media": 15.4,
     "clausula": 40800000,
     "id_team": 3,
-    "status": null,
+    "status": "doubt",
     "streak": [
       18,
       11,
@@ -5363,8 +5363,12 @@
     "partidos": 7,
     "goles": 12,
     "tarjetas": 0,
-    "lesionado": false,
-    "lesion": null,
+    "lesionado": true,
+    "lesion": {
+      "category": "doubt",
+      "description": "Molestias",
+      "duration": "Duda esta jornada"
+    },
     "owner_id": 14605899,
     "owner_name": "Pixixi",
     "owner_balance": null,
@@ -7899,7 +7903,7 @@
     "media": 3.5,
     "clausula": 1275000,
     "id_team": 5,
-    "status": null,
+    "status": "doubt",
     "streak": [
       "-",
       "-",
@@ -7919,8 +7923,12 @@
     "partidos": 2,
     "goles": 0,
     "tarjetas": 0,
-    "lesionado": false,
-    "lesion": null,
+    "lesionado": true,
+    "lesion": {
+      "category": "doubt",
+      "description": "Molestias",
+      "duration": "Duda esta jornada"
+    },
     "owner_id": 14605899,
     "owner_name": "Pixixi",
     "owner_balance": null,
@@ -8518,7 +8526,7 @@
     "media": 5,
     "clausula": 8026500,
     "id_team": 5,
-    "status": null,
+    "status": "injury",
     "streak": [
       3,
       3,
@@ -8538,8 +8546,12 @@
     "partidos": 7,
     "goles": 1,
     "tarjetas": 0,
-    "lesionado": false,
-    "lesion": null,
+    "lesionado": true,
+    "lesion": {
+      "category": "injury",
+      "description": "Lesión de rodilla",
+      "duration": "Pendiente de evolución"
+    },
     "owner_id": 14606051,
     "owner_name": "Ridaura",
     "owner_balance": null,
@@ -8864,7 +8876,7 @@
     "media": 4,
     "clausula": null,
     "id_team": 5,
-    "status": "injury",
+    "status": "doubt",
     "streak": [
       4,
       3,
@@ -8886,9 +8898,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "injury",
+      "category": "doubt",
       "description": "Lesión en el recto anterior",
-      "duration": "Baja hasta mediados de Octubre"
+      "duration": "Duda esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -10137,7 +10149,7 @@
     "media": 5,
     "clausula": 18882000,
     "id_team": 6,
-    "status": null,
+    "status": "doubt",
     "streak": [
       5,
       6,
@@ -10157,8 +10169,12 @@
     "partidos": 6,
     "goles": 0,
     "tarjetas": 3,
-    "lesionado": false,
-    "lesion": null,
+    "lesionado": true,
+    "lesion": {
+      "category": "doubt",
+      "description": "Molestias",
+      "duration": "Duda esta jornada"
+    },
     "owner_id": 14605926,
     "owner_name": "Alberto Ribera",
     "owner_balance": null,
@@ -12056,7 +12072,7 @@
     "lesionado": true,
     "lesion": {
       "category": "doubt",
-      "description": "Molestias",
+      "description": "Lesión muscular",
       "duration": "Duda esta jornada"
     },
     "owner_id": 14605926,
@@ -12458,7 +12474,7 @@
     "media": 0,
     "clausula": null,
     "id_team": 8,
-    "status": "injury",
+    "status": "doubt",
     "streak": [
       "-",
       "-",
@@ -12480,9 +12496,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "injury",
+      "category": "doubt",
       "description": "Rotura de ligamento cruzado",
-      "duration": "Baja hasta Septiembre"
+      "duration": "Duda esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -13359,7 +13375,7 @@
     "media": -1,
     "clausula": null,
     "id_team": 9,
-    "status": "injury",
+    "status": "doubt",
     "streak": [
       4,
       1,
@@ -13381,9 +13397,9 @@
     "tarjetas": 1,
     "lesionado": true,
     "lesion": {
-      "category": "injury",
+      "category": "doubt",
       "description": "Lesión en los isquiotibiales",
-      "duration": "Baja hasta Octubre"
+      "duration": "Duda esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -15801,7 +15817,7 @@
     "media": 1.3,
     "clausula": null,
     "id_team": 12,
-    "status": "injury",
+    "status": "doubt",
     "streak": [
       0,
       4,
@@ -15823,9 +15839,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "injury",
+      "category": "doubt",
       "description": "Lesión muscular",
-      "duration": "Baja hasta finales de Septiembre"
+      "duration": "Duda esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -16465,7 +16481,7 @@
     "media": 0,
     "clausula": null,
     "id_team": 13,
-    "status": "injury",
+    "status": "doubt",
     "streak": [
       "-",
       "-",
@@ -16487,9 +16503,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "injury",
+      "category": "doubt",
       "description": "Lesión de rodilla",
-      "duration": "Baja hasta Septiembre"
+      "duration": "Duda esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -16532,7 +16548,7 @@
     "media": 3.2,
     "clausula": null,
     "id_team": 13,
-    "status": null,
+    "status": "doubt",
     "streak": [
       2,
       6,
@@ -16552,8 +16568,12 @@
     "partidos": 6,
     "goles": 0,
     "tarjetas": 2,
-    "lesionado": false,
-    "lesion": null,
+    "lesionado": true,
+    "lesion": {
+      "category": "doubt",
+      "description": "Molestias",
+      "duration": "Duda esta jornada"
+    },
     "owner_id": null,
     "owner_name": null,
     "owner_balance": null,
@@ -17409,7 +17429,7 @@
     "media": 2.6,
     "clausula": null,
     "id_team": 13,
-    "status": null,
+    "status": "doubt",
     "streak": [
       2,
       2,
@@ -17429,8 +17449,12 @@
     "partidos": 7,
     "goles": 0,
     "tarjetas": 1,
-    "lesionado": false,
-    "lesion": null,
+    "lesionado": true,
+    "lesion": {
+      "category": "doubt",
+      "description": "Molestias",
+      "duration": "Duda esta jornada"
+    },
     "owner_id": null,
     "owner_name": null,
     "owner_balance": null,
@@ -18432,7 +18456,7 @@
     "media": 1.7,
     "clausula": null,
     "id_team": 14,
-    "status": null,
+    "status": "doubt",
     "streak": [
       1,
       3,
@@ -18452,8 +18476,12 @@
     "partidos": 6,
     "goles": 0,
     "tarjetas": 0,
-    "lesionado": false,
-    "lesion": null,
+    "lesionado": true,
+    "lesion": {
+      "category": "doubt",
+      "description": "Molestias",
+      "duration": "Duda esta jornada"
+    },
     "owner_id": null,
     "owner_name": null,
     "owner_balance": null,
@@ -20363,7 +20391,7 @@
     "media": 0,
     "clausula": null,
     "id_team": 15,
-    "status": "injury",
+    "status": "doubt",
     "streak": [
       "-",
       "-",
@@ -20385,9 +20413,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "injury",
+      "category": "doubt",
       "description": "Lesión en el bíceps femoral",
-      "duration": "Baja hasta Septiembre"
+      "duration": "Duda esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -21124,7 +21152,7 @@
     "media": 3.6,
     "clausula": null,
     "id_team": 15,
-    "status": "doubt",
+    "status": "injury",
     "streak": [
       5,
       1,
@@ -21146,9 +21174,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "doubt",
+      "category": "injury",
       "description": "Esguince de tobillo",
-      "duration": "Duda esta jornada"
+      "duration": "Baja esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -23749,7 +23777,7 @@
     "media": 0,
     "clausula": null,
     "id_team": 17,
-    "status": null,
+    "status": "doubt",
     "streak": [
       "-",
       "-",
@@ -23769,8 +23797,12 @@
     "partidos": 0,
     "goles": 0,
     "tarjetas": 0,
-    "lesionado": false,
-    "lesion": null,
+    "lesionado": true,
+    "lesion": {
+      "category": "doubt",
+      "description": "Molestias",
+      "duration": "Duda esta jornada"
+    },
     "owner_id": null,
     "owner_name": null,
     "owner_balance": null,
@@ -25793,7 +25825,7 @@
     "media": 2.2,
     "clausula": null,
     "id_team": 19,
-    "status": "injury",
+    "status": "doubt",
     "streak": [
       -2,
       1,
@@ -25815,9 +25847,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "injury",
+      "category": "doubt",
       "description": "Elongación en los isquiotibiales",
-      "duration": "Baja hasta finales de Septiembre"
+      "duration": "Duda esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -26070,7 +26102,7 @@
     "media": 0,
     "clausula": null,
     "id_team": 19,
-    "status": "injury",
+    "status": "doubt",
     "streak": [
       "-",
       "-",
@@ -26092,9 +26124,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "injury",
+      "category": "doubt",
       "description": "Rotura de menisco",
-      "duration": "Baja hasta Octubre"
+      "duration": "Duda esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -26277,7 +26309,7 @@
     "media": 1,
     "clausula": null,
     "id_team": 19,
-    "status": "injury",
+    "status": "doubt",
     "streak": [
       -1,
       -1,
@@ -26299,9 +26331,9 @@
     "tarjetas": 2,
     "lesionado": true,
     "lesion": {
-      "category": "injury",
+      "category": "doubt",
       "description": "Lesión en el aductor",
-      "duration": "Baja hasta Octubre"
+      "duration": "Duda esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -27509,7 +27541,7 @@
     "media": 3,
     "clausula": null,
     "id_team": 19,
-    "status": "doubt",
+    "status": "injury",
     "streak": [
       8,
       "-",
@@ -27531,9 +27563,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "doubt",
+      "category": "injury",
       "description": "Lesión en los isquiotibiales",
-      "duration": "Duda esta jornada"
+      "duration": "Baja esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -27857,7 +27889,7 @@
     "media": 4,
     "clausula": null,
     "id_team": 20,
-    "status": "doubt",
+    "status": null,
     "streak": [
       4,
       "-",
@@ -27877,12 +27909,8 @@
     "partidos": 3,
     "goles": 0,
     "tarjetas": 2,
-    "lesionado": true,
-    "lesion": {
-      "category": "doubt",
-      "description": "Molestias",
-      "duration": "Duda esta jornada"
-    },
+    "lesionado": false,
+    "lesion": null,
     "owner_id": null,
     "owner_name": null,
     "owner_balance": null,
@@ -29382,7 +29410,7 @@
     "media": 3.3,
     "clausula": 4207500,
     "id_team": 23,
-    "status": null,
+    "status": "doubt",
     "streak": [
       9,
       1,
@@ -29402,8 +29430,12 @@
     "partidos": 7,
     "goles": 1,
     "tarjetas": 0,
-    "lesionado": false,
-    "lesion": null,
+    "lesionado": true,
+    "lesion": {
+      "category": "doubt",
+      "description": "Lesión en los isquiotibiales",
+      "duration": "Duda esta jornada"
+    },
     "owner_id": 14605899,
     "owner_name": "Pixixi",
     "owner_balance": null,
@@ -30738,7 +30770,7 @@
     "media": 0,
     "clausula": null,
     "id_team": 23,
-    "status": "injury",
+    "status": "doubt",
     "streak": [
       "-",
       "-",
@@ -30760,9 +30792,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "injury",
+      "category": "doubt",
       "description": "Artroscopia",
-      "duration": "Baja indefinida"
+      "duration": "Duda esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -31293,7 +31325,7 @@
     "lesion": {
       "category": "injury",
       "description": "Rotura de ligamento cruzado",
-      "duration": "Baja indefinida"
+      "duration": "Baja hasta Abril"
     },
     "owner_id": null,
     "owner_name": null,
@@ -31400,7 +31432,7 @@
     "valor": 4503000,
     "puntos_totales": 23,
     "media": 3.8,
-    "clausula": 6754500,
+    "clausula": null,
     "id_team": 48,
     "status": null,
     "streak": [
@@ -31415,21 +31447,21 @@
     "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/118.png?version=20250702181230",
     "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/48.png?version=",
     "valor_anterior": 4618000,
-    "clause_floor": 4503000,
-    "clause_multiplier": 1.5,
-    "clause_percentage": 50,
-    "clause_tier": 2,
+    "clause_floor": null,
+    "clause_multiplier": null,
+    "clause_percentage": null,
+    "clause_tier": null,
     "partidos": 6,
     "goles": 0,
     "tarjetas": 0,
     "lesionado": false,
     "lesion": null,
-    "owner_id": 15445440,
-    "owner_name": "Oscar",
+    "owner_id": null,
+    "owner_name": null,
     "owner_balance": null,
-    "en_mercado": true,
-    "market_id": 19260658521,
-    "market_price": 4618000,
+    "en_mercado": false,
+    "market_id": null,
+    "market_price": 4503000,
     "last_gameweek": 7,
     "puntos_ultimos_3": 11.0,
     "media_ultimos_3": 3.67,
@@ -31458,7 +31490,7 @@
     "fecha_valor_minimo": "24 may 2026",
     "distancia_max_pct": -25.22,
     "rentabilidad_valor": 5.11,
-    "rentabilidad_clausula": 3.41
+    "rentabilidad_clausula": null
   },
   {
     "id": 36048,
@@ -32503,7 +32535,7 @@
     "media": 1.5,
     "clausula": null,
     "id_team": 48,
-    "status": "doubt",
+    "status": null,
     "streak": [
       1,
       2,
@@ -32523,12 +32555,8 @@
     "partidos": 4,
     "goles": 0,
     "tarjetas": 0,
-    "lesionado": true,
-    "lesion": {
-      "category": "doubt",
-      "description": "Traumatismo craneoencefálico",
-      "duration": "Duda esta jornada"
-    },
+    "lesionado": false,
+    "lesion": null,
     "owner_id": null,
     "owner_name": null,
     "owner_balance": null,
@@ -33543,7 +33571,7 @@
     "media": 2.3,
     "clausula": null,
     "id_team": 50,
-    "status": "injury",
+    "status": "doubt",
     "streak": [
       3,
       "-",
@@ -33565,9 +33593,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "injury",
+      "category": "doubt",
       "description": "Lesión muscular",
-      "duration": "Baja hasta finales de Septiembre"
+      "duration": "Duda esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -33967,7 +33995,7 @@
     "media": 3.3,
     "clausula": null,
     "id_team": 50,
-    "status": "injury",
+    "status": "doubt",
     "streak": [
       4,
       4,
@@ -33989,9 +34017,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "injury",
+      "category": "doubt",
       "description": "Lesión en el bíceps femoral",
-      "duration": "Baja hasta finales de Septiembre"
+      "duration": "Duda esta jornada"
     },
     "owner_id": null,
     "owner_name": null,
@@ -34041,7 +34069,7 @@
     "media": 3,
     "clausula": null,
     "id_team": 50,
-    "status": "doubt",
+    "status": "injury",
     "streak": [
       "-",
       4,
@@ -34063,9 +34091,9 @@
     "tarjetas": 0,
     "lesionado": true,
     "lesion": {
-      "category": "doubt",
+      "category": "injury",
       "description": "Lesión en los isquiotibiales",
-      "duration": "Duda esta jornada"
+      "duration": "Baja hasta mediados de Octubre"
     },
     "owner_id": null,
     "owner_name": null,
